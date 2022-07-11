@@ -3,6 +3,6 @@ This is a final project of the Integrative Survival Experience 1 course that we 
 
 Our business idea is called 'Coffine'. Coffine is a drop-ship platform that is created by FanBots in an attempt to provide Indonesian coffee producers with a platform for them to distribute their coffee beans around Indonesia.
 
-For more detail about our business idea, you may download and read our presentation slides that I have already attached.
+For more detail about our business idea, you may download and read our presentation slides that I have already attached within this repository.
 
 ![](coffine.png)
